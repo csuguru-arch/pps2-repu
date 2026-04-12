@@ -2,7 +2,7 @@
 
 📌 Description
 
-.A simple Python project that tracks how long you stay away from your phone. It helps improve focus and productivity by recording phone-free sessions.
+A simple Python project that tracks how long you stay away from your phone. It helps improve focus and productivity by recording phone-free sessions.
 
 ⚙️ Features
 .Track phone-free time
