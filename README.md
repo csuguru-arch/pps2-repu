@@ -6,37 +6,37 @@ A simple Python project that tracks how long you stay away from your phone. It h
 
 ⚙️ Features
 
-.Track phone-free time
+*Track phone-free time
 
-.Save data in a file (JSON)
+*Save data in a file (JSON)
 
-.Show session reports
+*Show session reports
 
-.Avoid duplicate session names
+*Avoid duplicate session names
 
-.Uses exception handling
+*Uses exception handling
 
 🧠 Concepts Used
 
-.Dictionary
+*Dictionary
 
-.Set
+*Set
 
-.Functions
+*Functions
 
-.File Handling
+*File Handling
 
-.Modules
+*Modules
 
-.Exception Handling
+*Exception Handling
 
 🚀 Future Scope
 
-.Add GUI
+*Add GUI
 
-.Add charts
+*Add charts
 
-.Mobile app version
+*Mobile app version
 
 👨‍💻 Author
 
